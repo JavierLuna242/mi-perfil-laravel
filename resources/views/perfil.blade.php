@@ -2,6 +2,7 @@
 <html lang="es">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Perfil</title>
     <link rel="stylesheet" href="{{ asset('css/estilos.css') }}">
 </head>
@@ -28,7 +29,7 @@
 </main>
 
 <footer class="footer">
-    <p>© 2026 Proyecto Perfil Personal</p>
+    <p>© 2026 Proyecto Perfil Perfil</p>
 </footer>
 
 </body>
