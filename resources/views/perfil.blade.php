@@ -21,7 +21,7 @@
 <main class="container">
     <section class="card">
         <h2>Información Personal</h2>
-        <p><strong>Nombre:</strong> Javier Luna</p>
+        <p><strong>Nombre:</strong> Javier Mauricio Luna Díaz</p>
         <p><strong>Carrera:</strong> Ingeniería de Sistemas</p>
         <p><strong>Edad:</strong> 21 años</p>
         <p><strong>Ciudad:</strong> Bucaramanga</p>
@@ -29,7 +29,7 @@
 </main>
 
 <footer class="footer">
-    <p>© 2026 Proyecto Perfil Perfil</p>
+    <p>© 2026 Proyecto Perfil Personal</p>
 </footer>
 
 </body>
